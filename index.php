@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Up/Grades </title>
+		<title>Up-Grades </title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -28,8 +28,8 @@
 		<!-- Header -->
 			<section id="header" class="dark">
 				<header>
-					<h1>Bienvenue sur Up/Grades</h1>
-					<p>Un application de prise de note révolutionnaire </p>
+					<h1>Bienvenue sur Up-Grades</h1>
+					<p>Une plateforme d'apprentissage la plus captivante du web</p>
 				</header>
 				<footer>
 					<a href="#first" class="button scrolly">Commencer</a>
@@ -40,9 +40,9 @@
 			<section id="first" class="main">
 				<header>
 					<div class="container">
-						<h2>Tessellate is a free responsive site template</h2>
-						<p>Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet consequat<br />
-						feugiat. Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet.</p>
+						<h2>Up-Grade est une plateforme web d'apprentissage à long terme</h2>
+						<p>Notre mission est de rendre votre apprentissage le plus interactif et captivant possible.<br />
+						Pour ce faire, nous vous offrons un outil efficace et pédagogique pouvant desservir autant les étudiants que les professionnels et les entreprises.</p>
 					</div>
 				</header>
 				<div class="content dark style1 featured">
