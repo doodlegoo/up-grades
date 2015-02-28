@@ -1,5 +1,5 @@
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<link href="/public/style.css" rel="stylesheet">
+<link href="public/style.css" rel="stylesheet">
 <div class="container">
     
 
