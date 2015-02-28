@@ -144,7 +144,7 @@
 			</section>
 			
 		<!-- Third -->
-			<section id="third" class="main">
+			<!--<section id="third" class="main">
 				<header>
 					<div class="container">
 						<h2>Ornare varius lorem ipsum ante lectus</h2>
@@ -199,7 +199,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 		<!-- Basic Elements -->
 		<!--
@@ -377,16 +377,16 @@
 			<section id="fourth" class="main">
 				<header>
 					<div class="container">
-						<h2>Sed feugiat ipsum consequat</h2>
-						<p>Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet consequat<br />
-						feugiat. Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet.</p>
+						<h2>Contactez-nous </h2>
+						<p>Nous sommes toujours à la rechercher de commentaires,<br />
+						n'hésitez pas à nous envoyer vos commentaires pour améliorer le site web.</p>
 					</div>
 				</header>
 				<div class="content style4 featured">
 					<div class="container 75%">
 						<form method="post" action="#">
 							<div class="row 50%">
-								<div class="6u"><input type="text" placeholder="Name" /></div>
+								<div class="6u"><input type="text" placeholder="Nom" /></div>
 								<div class="6u"><input type="text" placeholder="Email" /></div>
 							</div>
 							<div class="row 50%">
@@ -395,7 +395,7 @@
 							<div class="row">
 								<div class="12u">
 									<ul class="actions">
-										<li><input type="submit" class="button" value="Send Message" /></li>
+										<li><input type="submit" class="button" value="Envoyer Message" /></li>
 										<li><input type="reset" class="button alt" value="Clear Form" /></li>
 									</ul>
 								</div>
