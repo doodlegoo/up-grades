@@ -1,6 +1,5 @@
 <?php
-$mongo = new Mongo();
-$db = $mongo->selectDB(“test”);
+$mongo = new MongoClient();
 $dbs = $mongo->listDBs();
 print_r($dbs);
 ?>
