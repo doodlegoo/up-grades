@@ -12,11 +12,15 @@
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
 		<script src="js/skel.min.js"></script>
+		<script src="js/jquery.leanModal.min.js"></script>
 		<script src="js/init.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/jquery-ui.min.css" />
+			<link rel="stylesheet" href="css/jquery-ui.structure.min.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 		</noscript>
@@ -32,7 +36,7 @@
 					<p>Une plateforme d'apprentissage la plus captivante du web</p>
 				</header>
 				<footer>
-					<a href="#first" class="button scrolly">Commencer</a>
+					<a id='btnCommencer' href="#dialog" class="button" >Commencer</a>
 				</footer>
 			</section>
 			
@@ -420,6 +424,30 @@
 					</ul>
 				</div>
 			</section>
+<div id="dialog" style="display: none; position: fixed; opacity: 1; z-index: 11000; left: 50%; margin-left: -202px; top: 200px;">
+			<div id="signup-ct">
+				<div id="signup-header">
+					<h2>Create a new account</h2>
+					<p>It's simple, and free.</p>
+					<a class="modal_close" href="#"></a>
+				</div>
+				
+				<form action="">
+    
+				  <div class="txt-fld">
+				    <label for="">Email address</label>
+				    <input id="" name="" type="text">
+				  </div>
+				  <div class="txt-fld">
+				    <label for="">Password</label>
+				    <input id="" name="" type="text">
 
+				  </div>
+				  <div class="btn-fld">
+				  <button type="submit">Sign Up »</button>
+</div>
+				 </form>
+			</div>
+		</div>
 	</body>
 </html>

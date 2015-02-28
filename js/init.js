@@ -27,6 +27,8 @@
 			
 			$window.on('load', function() {
 				$body.removeClass('is-loading');
+
+				$('#btnCommencer').leanModal();
 			});
 			
 		// Forms (IE<10).
