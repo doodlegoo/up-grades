@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Tessellate by HTML5 UP</title>
+		<title>Up/Grades </title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -28,11 +28,11 @@
 		<!-- Header -->
 			<section id="header" class="dark">
 				<header>
-					<h1>Welcome to Tessellate</h1>
-					<p>A free responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+					<h1>Bienvenue sur Up/Grades</h1>
+					<p>Un application de prise de note révolutionnaire </p>
 				</header>
 				<footer>
-					<a href="#first" class="button scrolly">Proceed to second phase</a>
+					<a href="#first" class="button scrolly">Commencer</a>
 				</footer>
 			</section>
 			
