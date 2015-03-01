@@ -33,7 +33,7 @@
 			<section id="header" class="dark">
 				<header>
 					<h1>Bienvenue sur Up-Grades</h1>
-					<p>Une plateforme d'apprentissage la plus captivante du web</p>
+					<p>La plateforme d'apprentissage la plus captivante du web</p>
 				</header>
 				<footer>
 					<a id='btnCommencer' href="#dialog" class="button" >Commencer</a>
@@ -76,7 +76,7 @@
 									<header>
 										<h3>Soyez aux anges</h3>
 									</header>
-									<p>Rentabilisez votre dure labeur en </br>vendant vos quizz en ligne.</p>
+									<p>Rentabilisez votre dure labeur en vendant vos quizz en ligne.</p>
 								</section>
 							</div>
 						</div>
