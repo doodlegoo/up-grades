@@ -149,7 +149,7 @@ left: 50%; margin-left: -202px; top: 200px; padding: 20px;">
 
 				  </div>
 				  <div class="btn-fld">
-				  <button href="/profile.php" style= "background-color: rgb(31,148,204); margin-top: 20px; width: 100%;" align="center" type="submit">Me connecter</button>
+				  <button style= "background-color: rgb(31,148,204); margin-top: 20px; width: 100%;" align="center" type="submit"><a href="/profile.php">Me connecter</a></button>
 </div>
 				 </form>
 			</div>
