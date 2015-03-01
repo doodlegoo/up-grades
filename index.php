@@ -141,11 +141,11 @@ left: 50%; margin-left: -202px; top: 200px; padding: 20px;">
     
 				  <div class="txt-fld">
 				    <label style= "background-color: #FFFFFF;" for="">Courriel</label>
-				    <input style= "background-color: #E3E3D4;" id="" name="" type="text">
+				    <input style= "background-color: #E3E3D4;" type="text" name="emai">
 				  </div>
 				  <div class="txt-fld">
 				    <label style= "background-color: #FFFFFF;" for="">Mot de passe</label>
-				    <input style= "background-color: #E3E3D4;" type="password" name="" type="text">
+				    <input style= "background-color: #E3E3D4;" type="password" name="mdp">
 
 				  </div>
 				  <div class="btn-fld">
