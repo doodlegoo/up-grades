@@ -424,27 +424,32 @@
 					</ul>
 				</div>
 			</section>
-<div id="dialog" style="display: none; position: fixed; opacity: 1; z-index: 11000; left: 50%; margin-left: -202px; top: 200px;">
+<div id="dialog" style="display: none; position: fixed; opacity: 1; z-index: 11000; 
+left: 50%; margin-left: -202px; top: 200px; padding: 20px;">
 			<div id="signup-ct">
 				<div id="signup-header">
-					<h2>Create a new account</h2>
-					<p>It's simple, and free.</p>
-					<a class="modal_close" href="#"></a>
+					<h2>Connexion</h2>
+					
+					<a class="modal_close" style="width: 50px; height: 50px; background: rgba(0,0,0,0.8); top:-30px; right: -30px;
+					border-radius: 100px;" href="#">
+					<i style= "display: block; position: relative; left: 0; top: -5px; color: #FFFFFF; font-weight: 300; 
+					font-style: normal; vertical-align: middle; text-align: center; font-size: 3em; line-height: 1em;">×</i>
+					</a>
 				</div>
 				
 				<form action="">
     
 				  <div class="txt-fld">
-				    <label for="">Email address</label>
-				    <input id="" name="" type="text">
+				    <label style= "background-color: #FFFFFF;" for="">Courriel</label>
+				    <input style= "background-color: #E3E3D4;" id="" name="" type="text">
 				  </div>
 				  <div class="txt-fld">
-				    <label for="">Password</label>
-				    <input id="" name="" type="text">
+				    <label style= "background-color: #FFFFFF;" for="">Mot de passe</label>
+				    <input style= "background-color: #E3E3D4;" id="" name="" type="text">
 
 				  </div>
 				  <div class="btn-fld">
-				  <button type="submit">Sign Up »</button>
+				  <button style= "background-color: rgb(31,148,204); margin-top: 20px; width: 100%;" align="center" type="submit">Me connecter</button>
 </div>
 				 </form>
 			</div>
