@@ -42,7 +42,7 @@
 
 
 	<div id="hautdroitnote" style="position:absolute;right:1px; top: 10px; width:150px;">
-		<img src='avatar.png' alt="Avatar" title="Avatar" style="align: right"/>
+		<img src='avatar.jpg' alt="Avatar" title="Avatar" style="align: right"/>
 		<input type="button" value="Changer d'avatar" name="changeavatar"/>
 	</div>
 
