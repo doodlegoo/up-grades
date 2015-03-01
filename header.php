@@ -1,4 +1,4 @@
-<img src='theme/header.jpg' style=" display:inline-block;background :center no-repeat; position:absolute; top:0px;left:0px; height : 100px; max-width:100%""/>
+<img src='images/header-small.jpg' style=" display:inline-block;background :center no-repeat; position:absolute; top:0px;left:0px; height : 100px; max-width:100%""/>
 <header style="height: 100px;">
 	<ul style="list-style-type: none; position:absolute ; top: -10px; margin-top: 1px">
  		<a href="profile.php"><li><img src='logo-white.png' alt="Aller au profile" title="Profile"  style=" top:	0; margin-left:2px; float:left; max-width: 175px; max-height:150px;"/></a></li>
