@@ -41,6 +41,11 @@
 	<?php include('header.php'); ?>
 
 
+	<div id="hautdroitnote" style="position:absolute;right:1px; top: 10px; width:150px;">
+		<img src='avatar.png' alt="Avatar" title="Avatar" style="align: right"/>
+		<input type="button" value="Changer d'avatar" name="changeavatar"/>
+	</div>
+
 	<nav>
 		<ul>
         <li>Maths</li>
@@ -49,7 +54,7 @@
 		<li>Chimie</li>
         </ul>
 	</nav>
-
+	
 	<body>
 
 <input type="button" onclick="afficheCache('pr1');" value="Définition" name="btn1"/>
@@ -112,7 +117,7 @@
 
 			
 	<section>		
-	<?php echo '<p><strong>' . htmlspecialchars($_POST['mot']) . ': </strong> </br>' . ($_POST['txt']) . '</p>'; ?>		
+	<?php echo '<p><strong>' . htmlspecialchars($_POST['mot']) . '</strong> </br>' . ($_POST['txt']) . '</p>'; ?>		
 	</section>			
 				
 
