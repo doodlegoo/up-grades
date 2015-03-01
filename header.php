@@ -15,7 +15,7 @@ position:absolute; top:0px;left:0px; height : 100px; width:100%""/>
 	<div id="hautdroit" style="position:absolute ;margin-top: 5px; right:1px; top: 1px; width:100px;">
 	<a href="profile.php" style="text-decoration:none; color:black;" >John Smith</a>
 	</div>
-	
+	<link rel="stylesheet" href="css/style.css" />
 	<link rel="stylesheet" href="css/page.css" />
 	
 </header>
