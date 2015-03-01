@@ -8,6 +8,9 @@
 	
 	<?php include('header.php'); ?>
 	
+	<div class="Page">
+	
+	
 	
 	<img src='images/avatar.jpg' alt="Avatar" title="Avatar : John Smith" style="align: right; max-width: 200px; max-height:200px;"/>
 	
@@ -15,7 +18,7 @@
 	
 	
 	
-	
+	</div>
 	
 	
 	
