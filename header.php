@@ -7,9 +7,9 @@ position:absolute; top:0px;left:0px; height : 100px; width:100%""/>
  		
  	<ul style="margin-left:2px;float:right;">
  		
-		<li style="margin-left:2px;float:left; margin-top: 90px;">Rechercher cours</li>
-		<li style="margin-left:2px;float:left;text-decoration:none;color:black; margin-top: 90px;"><a style="text-decoration:none;color:black;" href="note.php">Mes notes de cours</a></li>
-		<li style="margin-left:2px;float:left;text-decoration:none;color:black; margin-top: 90px;"><a style="text-decoration:none;color:black;" href="quiz.php">Quiz</a></li>
+		<li style="margin-left:2px;float:left; margin-top: 90px;"><a style="text-decoration:none;color:black;" href="#">Rechercher cours</a></li>
+		<li style="margin-left:2px;float:left;text-decoration:none;color:black; margin-top: 90px; margin-left:30px;"><a style="text-decoration:none;color:black;" href="note.php">Mes notes de cours</a></li>
+		<li style="margin-left:2px;float:left;text-decoration:none;color:black; margin-top: 90px; margin-left:30px;"><a style="text-decoration:none;color:black;" href="quiz.php">Quiz</a></li>
 		
 	</ul>
 	<div id="hautdroit" style="position:absolute ;margin-top: 5px; right:1px; top: 1px; width:100px;">
