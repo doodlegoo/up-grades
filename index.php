@@ -76,7 +76,7 @@
 									<header>
 										<h3>Soyez aux anges</h3>
 									</header>
-									<p>Rentabilisez votre dure labeur en vendant vos quizz en ligne.</p>
+									<p>Rentabilisez votre dure labeur en </br>vendant vos quizz en ligne.</p>
 								</section>
 							</div>
 						</div>
