@@ -1,11 +1,30 @@
 .Page{
 margin-left: auto;
 margin-right: auto;
-padding-left: 60px;
-padding-right: 60px;
+margin-top: 100px;
+padding-left: 20%;
+padding-right: 20%;
 padding-top: 30px;
+box-shadow: 0px 1px 3px #888888;
+
 }
-.Top {
+a {
+ font-size : 12pt;
 
+}
 
+li {
+  display: block;
+}
+
+.btn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  color: #ffffff;
+  font-size: 12px;
+  background: rgba(217,52,107,0.9);
+  padding: 5px 15px 5px 15px;
+  text-decoration: none;
+  border: solid #000000 2px;
 }
