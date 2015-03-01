@@ -41,21 +41,24 @@
 	<?php include('header.php'); ?>
 
 
-	<div id="hautdroitnote" style="position:absolute;right:1px; top: 10px; width:150px;">
-		<img src='avatar.jpg' alt="Avatar" title="Avatar" style="align: right"/>
-		<input type="button" value="Changer d'avatar" name="changeavatar"/>
-	</div>
-
 	<nav>
 		<ul>
         <li>Maths</li>
  		<li>Français</li>
 		<li>Histoire</li>
 		<li>Chimie</li>
+		<li>Ajouter cours</li>
         </ul>
 	</nav>
 	
 	<body>
+		
+		<h1>
+			Programmation orientée objet
+		</h1>
+
+
+
 
 <input type="button" onclick="afficheCache('pr1');" value="Définition" name="btn1"/>
 <input type="button" onclick="afficheCache('pr2');" value="Vrai/Faux" name="btn2"/>
@@ -78,7 +81,7 @@
 <div id="pr2" style="display:none" style='border:1px double black'>
 <form action='note.php' method="post">
 <fieldset>
-<legend>Ajouter une définition</legend>
+<legend>Ajouter  </legend>
 <center>
 <p><strong>Mot : </strong><input type='text' name='mot' autocomplete="off" autofocus required/> </p>
 <p><strong>Définition : </strong><input type='text' name='txt' autocomplete="off" required/> </p>
@@ -115,9 +118,22 @@
 </div> 
 
 
+			</br>
+	<section> 
+		<p><strong>La programmation orientée objet:</strong></br>
+		Définition et interaction de briques logicielles appelées objets. </p></br>
+	
+		<p><strong>Objet </strong> </br>
+		Un objet représente un concept, une idée ou toute entité du monde physique, comme une voiture, une personne ou encore une page d'un 	livre. Il possède une structure interne et un comportement, et il sait interagir avec ses pairs.</p></br>
+	
+		<p><strong>La redéfinition </strong> </br>
+		La programmation objet permet à un objet de raffiner la mise en œuvre d'un message défini pour des objets d'un type parent, autrement 		dit de redéfinir la méthode associée au message : c'est le principe de redéfinition des messages .</p></br>
+		
+		<p><strong>Modélisation objet </strong> </br>
+		La modélisation objet consiste à créer un modèle informatique du système de l’utilisateur (un système informatique). Ce modèle peut rassembler aussi bien des éléments du monde réel que des concepts ou des idées propres au métier ou au domaine duquel fera partie le système.</p></br>
+	
 			
-	<section>		
-	<?php echo '<p><strong>' . htmlspecialchars($_POST['mot']) . '</strong> </br>' . ($_POST['txt']) . '</p>'; ?>		
+		<?php echo '<p><strong>' . htmlspecialchars($_POST['mot']) . '</strong> </br>' . ($_POST['txt']) . '</p>'; ?>		
 	</section>			
 				
 
