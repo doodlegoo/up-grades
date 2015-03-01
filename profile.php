@@ -9,7 +9,7 @@
 	<?php include('header.php'); ?>
 	
 	
-	<img src='avatar.jpg' alt="Avatar" title="Avatar : John Smith" style="align: right; max-width: 200px; max-height:200px;"/>
+	<img src='images/avatar.jpg' alt="Avatar" title="Avatar : John Smith" style="align: right; max-width: 200px; max-height:200px;"/>
 	
 	
 	
