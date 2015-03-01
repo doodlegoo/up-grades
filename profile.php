@@ -11,10 +11,10 @@
 	<div class="Page">
 	
 	
-	
-	<img src='images/avatar.jpg' alt="Avatar" title="Avatar : John Smith" style="align: right; max-width: 200px; max-height:200px;"/>
-	
-	
+	<div clas="Top">
+		<img src='images/avatar.jpg' alt="Avatar" title="Avatar : John Smith" style="align: right; max-width: 200px; max-height:200px;"/>
+		<h2>Bonjour John Smith</h2>
+	</div>
 	
 	
 	
