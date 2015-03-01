@@ -118,13 +118,6 @@
 			
 		<!-- Footer -->
 			<section id="footer">
-				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-				</ul>
 				<div class="copyright">
 					<ul class="menu">
 						<li>&copy; Up-Grades. All rights reserved.</li>
@@ -152,11 +145,11 @@ left: 50%; margin-left: -202px; top: 200px; padding: 20px;">
 				  </div>
 				  <div class="txt-fld">
 				    <label style= "background-color: #FFFFFF;" for="">Mot de passe</label>
-				    <input style= "background-color: #E3E3D4;" id="" name="" type="text">
+				    <input style= "background-color: #E3E3D4;" type="password" name="" type="text">
 
 				  </div>
 				  <div class="btn-fld">
-				  <button style= "background-color: rgb(31,148,204); margin-top: 20px; width: 100%;" align="center" type="submit">Me connecter</button>
+				  <button href="/profile.php" style= "background-color: rgb(31,148,204); margin-top: 20px; width: 100%;" align="center" type="submit">Me connecter</button>
 </div>
 				 </form>
 			</div>
